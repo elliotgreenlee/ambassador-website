@@ -1,0 +1,3 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule (.*) http://www.engr.utk.edu/ambassador/$1 [R=301,L]

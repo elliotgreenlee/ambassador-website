@@ -1,0 +1,33 @@
+/* CSS Document */
+
+/* This document (blue.css) is one of the standard design templates created by UT's Office of Creative Services. It is a secondary style sheet and is intended to work in combination with global.css.
+
+NOTE: In order to customize this style sheet, you will need to save a copy onto your own web space.  If you have any questions, please contact: webteam@utk.edu */
+
+	
+/* HEADER */
+		
+.border-photo {
+	/* Adds a shaded margin and border */
+	background-color: #f8f8ee;
+	padding: 3px;
+	border: 1px solid #d5d5bf;
+}
+
+.right-float-photo {
+	/* Adds the shaded margin and border, and also floats the image to the right with a bit of padding so that text does not butt up directly beside it */
+	background-color: #f8f8ee;
+	padding: 3px;
+	border: 1px solid #d5d5bf;
+	float: right;
+	margin: 0px 0px 15px 15px;
+}
+
+.left-float-photo {
+/* Adds the shaded margin and border, and also floats the image to the left with a bit of padding so that text does not butt up directly beside it */
+	background-color: #f8f8ee;
+	padding: 3px;
+	border: 1px solid #d5d5bf;
+	float: left;
+	margin: 0px 15px 15px 0px;
+}
